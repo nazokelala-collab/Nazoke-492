@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://nazokelala.com/sitemap.xml
